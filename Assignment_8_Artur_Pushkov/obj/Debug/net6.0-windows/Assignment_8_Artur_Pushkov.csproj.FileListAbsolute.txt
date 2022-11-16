@@ -1,0 +1,17 @@
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\bin\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.exe
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\bin\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.deps.json
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\bin\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.runtimeconfig.json
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\bin\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.dll
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\bin\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.pdb
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.csproj.AssemblyReference.cache
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.Form1.resources
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.csproj.GenerateResource.cache
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.AssemblyInfoInputs.cache
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.AssemblyInfo.cs
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.csproj.CoreCompileInputs.cache
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.dll
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\refint\Assignment_8_Artur_Pushkov.dll
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.pdb
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\Assignment_8_Artur_Pushkov.genruntimeconfig.cache
+C:\Artur_chinese\Assignment_8_Artur_Pushkov\Assignment_8_Artur_Pushkov\obj\Debug\net6.0-windows\ref\Assignment_8_Artur_Pushkov.dll
